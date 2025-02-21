@@ -206,5 +206,6 @@ commits referenced in the reflog are eligible for re-use as a new branch or tag.
   * Screen capture - video
 * Greenshot - https://getgreenshot.org/
   * Screen capture - still
+* How to use Eclipse with GitHub - https://github.com/maxkratz/How-to-Eclipse-with-Github?tab=readme-ov-file
 
 
